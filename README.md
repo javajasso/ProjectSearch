@@ -53,4 +53,5 @@ Fotografía tomada del dibujo del prototipo propuesto por el equipo para el proy
 
 
 # Video del Sprint Unidad 1
+![Reproductor de Video](ruta/al/video.mp4)
 
