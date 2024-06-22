@@ -30,7 +30,8 @@ Fotografía tomada del dibujo del prototipo propuesto por el equipo para el proy
 
 
 # Circuito diseñado para el proyecto completo:
-![Uploading image.png…]()
+![image](https://github.com/javajasso/ProjectSearch/assets/93737169/42d3cd14-10b8-4fcf-9409-e8c64c7f9cdf)
+
 
 # Video del Sprint Unidad 1
 
