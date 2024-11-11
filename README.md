@@ -52,3 +52,13 @@ Fotografía tomada del dibujo del prototipo propuesto por el equipo para el proy
 # Video del Sprint Unidad 1
 https://drive.google.com/file/d/1oM0tzQEzuAA8NhpEna9zIfVET7018_kp/view?usp=sharing
 
+# Video demostrativo del Funcionamiento
+
+# Video del beneficiario
+https://drive.google.com/file/d/1G91b5G9UTqYXMRrCu8Yv_9XBFYeG5NkN/view?usp=sharing  
+
+# Carta de agradecimiento
+https://docs.google.com/document/d/13xkNnPJUHO0VAb03euZGuH4DtwG34HFH/edit?usp=sharing&ouid=107672163558800577059&rtpof=true&sd=true
+
+
+
