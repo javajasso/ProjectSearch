@@ -15,12 +15,9 @@ El proyecto dispositivo de búsqueda e inspección tiene como vision lograr ser 
 |----|-------|----|---|
 |NODE MCU ESP32|![image](https://github.com/javajasso/ProjectSearch/assets/93737169/03dd9424-4540-4a07-9e8f-5e1f08c4cb89)
 |Con el NodeMCU-ESP32, es posible crear prototipos cómodamente con una programación sencilla a través de Luascript o el IDE de Arduino y el diseño compatible con la placa de pruebas. Esta placa tiene Wifi de modo dual de 2,4 GHz y una conexión inalámbrica BT.
-Además, una SRAM de 512 KB y una memoria flash de 4 MB están integradas en la placa de desarrollo del microcontrolador. La placa tiene 21 pines para la conexión de interfaz, incluidos I2C, SPI, UART, DAC y ADC.
-|1|
-
+Además, una SRAM de 512 KB y una memoria flash de 4 MB están integradas en la placa de desarrollo del microcontrolador. La placa tiene 21 pines para la conexión de interfaz, incluidos I2C, SPI, UART, DAC y ADC.|1|
 |Dht11|![image](https://github.com/javajasso/ProjectSearch/assets/93737169/f2e8bf84-a87c-41a5-888c-6f86de377835)
 |El DHT11 es un sensor simple que mide temperatura y humedad, todo en uno. Tiene alta fiabilidad y estabilidad debido a su señal digital calibrada|1|
-
 |Buzzer|![image](https://github.com/javajasso/ProjectSearch/assets/93737169/fdf3f22d-862e-4574-a2fc-a1028c30f91e)
 |Un zumbador o mejor conocido como buzzer (en ingles) es un pequeño transductorcapaz de convertir la energía eléctrica en sonido.|1|
 |Cables Arduino |![image](https://github.com/javajasso/ProjectSearch/assets/93737169/851f00bb-ed55-4c04-9ffa-8c66cb992167)
