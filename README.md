@@ -53,6 +53,7 @@ Fotografía tomada del dibujo del prototipo propuesto por el equipo para el proy
 https://drive.google.com/file/d/1oM0tzQEzuAA8NhpEna9zIfVET7018_kp/view?usp=sharing
 
 # Video demostrativo del Funcionamiento
+https://drive.google.com/file/d/1KWMTDSa_69xsyVfVkOMIFR2WWHPjbhne/view?usp=sharing
 
 # Video del beneficiario
 https://drive.google.com/file/d/1G91b5G9UTqYXMRrCu8Yv_9XBFYeG5NkN/view?usp=sharing  
